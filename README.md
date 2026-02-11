@@ -29,6 +29,7 @@ I focus on understanding data deeply, writing clean and reproducible code, and b
 ## 📌 Projects
 - **Customer Churn Prediction (ANN Classification)**  
   Built and deployed an artificial neural network model to predict customer churn using structured banking data.
+  
 
 - **Diabetes Prediction**  
   Developed a machine learning model to predict diabetes risk based on medical attributes.
